@@ -1,17 +1,17 @@
 {
-	"name": "parse-url",
+	"name": "http-server",
 	"version": "1.0.0",
-	"description": "fast and simple url parser",
-	"main": "parse-url.js",
+	"description": "initialise an http server",
+	"main": "http-server",
 	"keywords": [
-		"parser",
-		"url"
+		"http",
+		"server"
 	],
 	"author": "vas",
 	"license": "AGPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/vaaas/parse-url.git"
+		"url": "git://github.com/vaaas/http-server.git"
 	},
 	"dependencies": {
 		"serve": "github:vaaas/serve"
