@@ -1,0 +1,19 @@
+{
+	"name": "parse-url",
+	"version": "1.0.0",
+	"description": "fast and simple url parser",
+	"main": "parse-url.js",
+	"keywords": [
+		"parser",
+		"url"
+	],
+	"author": "vas",
+	"license": "AGPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vaaas/parse-url.git"
+	},
+	"dependencies": {
+		"serve": "github:vaaas/serve"
+	}
+}
